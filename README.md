@@ -26,7 +26,8 @@ Welcome to the IPL 2008-2023 Dashboard, a dynamic and insightful visualization c
 
 ## Visualization Preview:
 
-[Include a screenshot or GIF showcasing a preview of the dashboard.]
+![image](https://github.com/vedantmishra17/IPL-Dashboard/assets/105164363/dddce098-1975-49fc-a24f-1f173b1e4661)
+
 
 ## Credits:
 
